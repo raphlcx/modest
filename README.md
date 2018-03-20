@@ -8,6 +8,6 @@ Inspired by [nofrils](https://github.com/robertmeta/nofrils).
 
 ## Usage
 
-Modest supports uses only 16-color mode. It is built only to be used on terminal vim.
+Modest uses only 16-color mode, built only for terminal vim.
 
 Two color schemes are available, `modest-light` and `modest-dark`.
