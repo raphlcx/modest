@@ -10,4 +10,12 @@ Inspired by [nofrils](https://github.com/robertmeta/nofrils).
 
 Modest uses only 16-color mode, built only for terminal vim.
 
-Two color schemes are available, `modest-light` and `modest-dark`.
+Two color schemes are available:
+
+**Modest Light**
+
+![modest-light-ss](assets/modest-light.png)
+
+**Modest Dark**
+
+![modest-dark-ss](assets/modest-dark.png)
