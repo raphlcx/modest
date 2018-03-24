@@ -55,7 +55,7 @@ hi CursorLine term=none cterm=none ctermfg=none ctermbg=none
 hi Directory term=none cterm=none ctermfg=blue ctermbg=none
 hi IncSearch term=none cterm=none ctermfg=bg ctermbg=green
 hi LineNr term=none cterm=none ctermfg=magenta ctermbg=none
-hi CursorLineNr term=none cterm=none ctermfg=green ctermbg=none
+hi CursorLineNr term=none cterm=none ctermfg=black ctermbg=magenta
 hi MatchParen term=none cterm=none ctermfg=fg ctermbg=darkcyan
 hi ModeMsg term=none cterm=none ctermfg=fg ctermbg=bg
 hi MoreMsg term=none cterm=none ctermfg=fg ctermbg=bg
