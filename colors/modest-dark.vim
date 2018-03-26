@@ -64,7 +64,7 @@ hi PmenuSel term=reverse cterm=reverse ctermfg=none ctermbg=none
 hi PmenuSbar term=none cterm=none ctermfg=none ctermbg=black
 hi PmenuThumb term=none cterm=none ctermfg=none ctermbg=fg
 hi Question term=none cterm=none ctermfg=fg ctermbg=none
-hi Search term=none cterm=none ctermfg=none ctermbg=darkyellow
+hi Search term=reverse cterm=reverse ctermfg=none ctermbg=none
 hi StatusLine term=none cterm=none ctermfg=bg ctermbg=fg
 hi StatusLineNC term=none cterm=none ctermfg=bg ctermbg=gray
 hi StatusLineTerm term=none cterm=none ctermfg=bg ctermbg=fg
