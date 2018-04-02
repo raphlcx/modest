@@ -21,7 +21,8 @@ hi Ignore term=none cterm=none ctermfg=none ctermbg=none
 " Todo
 hi Todo term=none cterm=none ctermfg=green ctermbg=none
 
-" Error
+" Warning and error
+hi WarningMsg term=none cterm=none ctermfg=bg ctermbg=yellow
 hi Error term=none cterm=none ctermfg=fg ctermbg=darkred
 hi ErrorMsg term=none cterm=none ctermfg=fg ctermbg=darkred
 
@@ -74,5 +75,4 @@ hi TabLineFill term=none cterm=none ctermfg=bg ctermbg=fg
 hi TabLineSel term=none cterm=none ctermfg=fg ctermbg=bg
 hi Title term=none cterm=none ctermfg=magenta ctermbg=none
 hi Visual term=reverse cterm=reverse ctermfg=none ctermbg=none
-hi WarningMsg term=none cterm=none ctermfg=magenta ctermbg=none
 hi WildMenu term=none cterm=none ctermfg=fg ctermbg=bg
