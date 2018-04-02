@@ -47,6 +47,10 @@ hi SpellCap term=underline cterm=underline ctermfg=red ctermbg=none
 hi SpellLocal term=underline cterm=underline ctermfg=red ctermbg=none
 hi SpellRare term=underline cterm=underline ctermfg=red ctermbg=none
 
+" Search
+hi IncSearch term=none cterm=none ctermfg=bg ctermbg=green
+hi Search term=none cterm=none ctermfg=bg ctermbg=fg
+
 hi ColorColumn term=none cterm=none ctermfg=none ctermbg=lightgray
 hi Concealed term=none cterm=none ctermfg=none ctermbg=none
 hi Cursor term=none cterm=none ctermfg=fg ctermbg=none
@@ -54,7 +58,6 @@ hi CursorIM term=none cterm=none ctermfg=fg ctermbg=none
 hi CursorColumn term=none cterm=none ctermfg=fg ctermbg=gray
 hi CursorLine term=none cterm=none ctermfg=none ctermbg=none
 hi Directory term=bold cterm=bold ctermfg=magenta ctermbg=none
-hi IncSearch term=none cterm=none ctermfg=bg ctermbg=green
 hi LineNr term=none cterm=none ctermfg=green ctermbg=none
 hi CursorLineNr term=none cterm=none ctermfg=green ctermbg=none
 hi MatchParen term=none cterm=none ctermfg=fg ctermbg=darkcyan
@@ -65,7 +68,6 @@ hi PmenuSel term=reverse cterm=reverse ctermfg=none ctermbg=none
 hi PmenuSbar term=none cterm=none ctermfg=none ctermbg=black
 hi PmenuThumb term=none cterm=none ctermfg=none ctermbg=fg
 hi Question term=none cterm=none ctermfg=fg ctermbg=none
-hi Search term=reverse cterm=reverse ctermfg=none ctermbg=none
 hi StatusLine term=none cterm=none ctermfg=bg ctermbg=fg
 hi StatusLineNC term=none cterm=none ctermfg=bg ctermbg=gray
 hi StatusLineTerm term=none cterm=none ctermfg=bg ctermbg=fg
