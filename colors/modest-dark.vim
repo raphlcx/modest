@@ -53,7 +53,7 @@ hi Cursor term=none cterm=none ctermfg=fg ctermbg=none
 hi CursorIM term=none cterm=none ctermfg=fg ctermbg=none
 hi CursorColumn term=none cterm=none ctermfg=fg ctermbg=gray
 hi CursorLine term=none cterm=none ctermfg=none ctermbg=none
-hi Directory term=none cterm=none ctermfg=magenta ctermbg=none
+hi Directory term=bold cterm=bold ctermfg=magenta ctermbg=none
 hi IncSearch term=none cterm=none ctermfg=bg ctermbg=green
 hi LineNr term=none cterm=none ctermfg=green ctermbg=none
 hi CursorLineNr term=none cterm=none ctermfg=green ctermbg=none
