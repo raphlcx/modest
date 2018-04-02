@@ -62,8 +62,8 @@ hi ModeMsg term=none cterm=none ctermfg=fg ctermbg=bg
 hi MoreMsg term=none cterm=none ctermfg=fg ctermbg=bg
 hi Pmenu term=none cterm=none ctermfg=fg ctermbg=lightgray
 hi PmenuSel term=none cterm=none ctermfg=fg ctermbg=gray
-hi PmenuSbar term=none cterm=none ctermfg=none ctermbg=gray
-hi PmenuThumb term=none cterm=none ctermfg=none ctermbg=fg
+hi PmenuSbar term=none cterm=none ctermfg=none ctermbg=lightgray
+hi PmenuThumb term=none cterm=none ctermfg=none ctermbg=gray
 hi Question term=none cterm=none ctermfg=fg ctermbg=none
 hi Search term=reverse cterm=reverse ctermfg=none ctermbg=none
 hi StatusLine term=none cterm=none ctermfg=bg ctermbg=fg
