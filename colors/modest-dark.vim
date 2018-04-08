@@ -17,6 +17,7 @@ hi Type term=none cterm=none ctermfg=none ctermbg=none
 hi Special term=none cterm=none ctermfg=none ctermbg=none
 hi Underlined term=none cterm=none ctermfg=none ctermbg=none
 hi Ignore term=none cterm=none ctermfg=none ctermbg=none
+hi Title term=none cterm=none ctermfg=none ctermbg=none
 
 " Todo
 hi Todo term=none cterm=none ctermfg=green ctermbg=none
@@ -75,6 +76,5 @@ hi StatusLineTermNC term=none cterm=none ctermfg=bg ctermbg=gray
 hi TabLine term=none cterm=none ctermfg=bg ctermbg=fg
 hi TabLineFill term=none cterm=none ctermfg=bg ctermbg=fg
 hi TabLineSel term=none cterm=none ctermfg=fg ctermbg=bg
-hi Title term=none cterm=none ctermfg=magenta ctermbg=none
 hi Visual term=reverse cterm=reverse ctermfg=none ctermbg=none
 hi WildMenu term=none cterm=none ctermfg=fg ctermbg=bg
