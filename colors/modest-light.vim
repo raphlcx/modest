@@ -57,10 +57,10 @@ hi Concealed term=none cterm=none ctermfg=none ctermbg=none
 hi Cursor term=none cterm=none ctermfg=fg ctermbg=none
 hi CursorIM term=none cterm=none ctermfg=fg ctermbg=none
 hi CursorColumn term=none cterm=none ctermfg=fg ctermbg=lightgray
-hi CursorLine term=none cterm=none ctermfg=none ctermbg=lightgray
+hi CursorLine term=none cterm=none ctermfg=none ctermbg=none
 hi Directory term=bold cterm=bold ctermfg=darkblue ctermbg=none
 hi LineNr term=none cterm=none ctermfg=gray ctermbg=none
-hi CursorLineNr term=none cterm=none ctermfg=darkyellow ctermbg=lightgray
+hi CursorLineNr term=none cterm=none ctermfg=darkyellow ctermbg=none
 hi MatchParen term=none cterm=none ctermfg=fg ctermbg=cyan
 hi ModeMsg term=none cterm=none ctermfg=fg ctermbg=bg
 hi MoreMsg term=none cterm=none ctermfg=fg ctermbg=bg
