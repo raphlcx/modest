@@ -59,7 +59,7 @@ hi CursorIM term=none cterm=none ctermfg=fg ctermbg=none
 hi CursorColumn term=none cterm=none ctermfg=fg ctermbg=lightgray
 hi CursorLine term=none cterm=none ctermfg=none ctermbg=lightgray
 hi Directory term=bold cterm=bold ctermfg=darkblue ctermbg=none
-hi LineNr term=none cterm=none ctermfg=darkyellow ctermbg=none
+hi LineNr term=none cterm=none ctermfg=gray ctermbg=none
 hi CursorLineNr term=none cterm=none ctermfg=darkyellow ctermbg=lightgray
 hi MatchParen term=none cterm=none ctermfg=fg ctermbg=cyan
 hi ModeMsg term=none cterm=none ctermfg=fg ctermbg=bg
