@@ -49,8 +49,8 @@ hi SpellLocal term=underline cterm=underline ctermfg=darkred ctermbg=none
 hi SpellRare term=underline cterm=underline ctermfg=darkred ctermbg=none
 
 " Search
-hi IncSearch term=none cterm=none ctermfg=none ctermbg=yellow
-hi Search term=none cterm=none ctermfg=bg ctermbg=fg
+hi IncSearch term=none cterm=none ctermfg=bg ctermbg=fg
+hi Search term=none cterm=none ctermfg=none ctermbg=yellow
 
 hi ColorColumn term=none cterm=none ctermfg=none ctermbg=gray
 hi Concealed term=none cterm=none ctermfg=none ctermbg=none
