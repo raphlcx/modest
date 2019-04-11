@@ -50,7 +50,7 @@ hi SpellRare term=underline cterm=underline ctermfg=red ctermbg=none
 
 " Search
 hi IncSearch term=none cterm=none ctermfg=bg ctermbg=fg
-hi Search term=none cterm=none ctermfg=none ctermbg=darkmagenta
+hi Search term=none cterm=none ctermfg=none ctermbg=darkblue
 
 hi ColorColumn term=none cterm=none ctermfg=none ctermbg=lightgray
 hi Concealed term=none cterm=none ctermfg=none ctermbg=none
