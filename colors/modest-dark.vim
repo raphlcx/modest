@@ -50,7 +50,7 @@ hi SpellRare term=underline cterm=underline ctermfg=red ctermbg=none
 
 " Search
 hi IncSearch term=none cterm=none ctermfg=bg ctermbg=fg
-hi Search term=none cterm=none ctermfg=none ctermbg=darkblue
+hi Search term=none cterm=none ctermfg=fg ctermbg=darkmagenta
 
 hi ColorColumn term=none cterm=none ctermfg=none ctermbg=lightgray
 hi Concealed term=none cterm=none ctermfg=none ctermbg=none
@@ -58,7 +58,7 @@ hi Cursor term=none cterm=none ctermfg=fg ctermbg=none
 hi CursorIM term=none cterm=none ctermfg=fg ctermbg=none
 hi CursorColumn term=none cterm=none ctermfg=fg ctermbg=gray
 hi CursorLine term=none cterm=none ctermfg=none ctermbg=none
-hi Directory term=bold cterm=bold ctermfg=yellow ctermbg=none
+hi Directory term=bold cterm=bold ctermfg=blue ctermbg=none
 hi LineNr term=none cterm=none ctermfg=gray ctermbg=none
 hi CursorLineNr term=none cterm=none ctermfg=green ctermbg=none
 hi MatchParen term=none cterm=none ctermfg=fg ctermbg=darkcyan
