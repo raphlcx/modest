@@ -14,8 +14,8 @@ Two color schemes are available:
 
 **Modest Light**
 
-![modest-light-ss](https://user-images.githubusercontent.com/8281591/50378582-850f7f80-0670-11e9-97af-4a93f5035f50.png)
+![modest-light-ss](https://user-images.githubusercontent.com/8281591/58536968-77b07f80-8224-11e9-835d-80005c39f9ed.png)
 
 **Modest Dark**
 
-![modest-dark-ss](https://user-images.githubusercontent.com/8281591/50378577-6a3d0b00-0670-11e9-8811-475ec5945fdb.png)
+![modest-dark-ss](https://user-images.githubusercontent.com/8281591/58536921-5ea7ce80-8224-11e9-9e6c-871d79baf113.png)
