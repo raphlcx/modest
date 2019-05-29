@@ -50,7 +50,7 @@ hi SpellRare term=none cterm=none ctermfg=red ctermbg=none
 
 " Search
 hi IncSearch term=none cterm=none ctermfg=bg ctermbg=fg
-hi Search term=none cterm=none ctermfg=bg ctermbg=green
+hi Search term=none cterm=none ctermfg=green ctermbg=none
 
 hi ColorColumn term=none cterm=none ctermfg=none ctermbg=lightgray
 hi Concealed term=none cterm=none ctermfg=none ctermbg=none
@@ -60,8 +60,8 @@ hi CursorColumn term=none cterm=none ctermfg=fg ctermbg=gray
 hi CursorLine term=none cterm=none ctermfg=none ctermbg=none
 hi Directory term=bold cterm=bold ctermfg=magenta ctermbg=none
 hi LineNr term=none cterm=none ctermfg=gray ctermbg=none
-hi CursorLineNr term=none cterm=none ctermfg=green ctermbg=none
-hi MatchParen term=none cterm=none ctermfg=fg ctermbg=darkcyan
+hi CursorLineNr term=none cterm=none ctermfg=black ctermbg=green
+hi MatchParen term=none cterm=none ctermfg=darkcyan ctermbg=none
 hi ModeMsg term=none cterm=none ctermfg=fg ctermbg=bg
 hi MoreMsg term=none cterm=none ctermfg=fg ctermbg=bg
 hi Pmenu term=none cterm=none ctermfg=fg ctermbg=black
