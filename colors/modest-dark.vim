@@ -49,8 +49,8 @@ hi SpellLocal term=none cterm=none ctermfg=red ctermbg=none
 hi SpellRare term=none cterm=none ctermfg=red ctermbg=none
 
 " Search
-hi IncSearch term=none cterm=none ctermfg=black ctermbg=white
-hi Search term=none cterm=none ctermfg=green ctermbg=none
+hi IncSearch term=none cterm=none ctermfg=black ctermbg=green
+hi Search term=reverse cterm=reverse ctermfg=none ctermbg=none
 
 hi ColorColumn term=none cterm=none ctermfg=none ctermbg=lightgray
 hi Concealed term=none cterm=none ctermfg=none ctermbg=none
