@@ -61,7 +61,7 @@ hi CursorLine term=none cterm=none ctermfg=none ctermbg=none
 hi Directory term=bold cterm=bold ctermfg=darkblue ctermbg=none
 hi LineNr term=none cterm=none ctermfg=gray ctermbg=none
 hi CursorLineNr term=none cterm=none ctermfg=white ctermbg=blue
-hi MatchParen term=none cterm=none ctermfg=darkcyan ctermbg=none
+hi MatchParen term=none cterm=none ctermfg=none ctermbg=none
 hi ModeMsg term=none cterm=none ctermfg=black ctermbg=white
 hi MoreMsg term=none cterm=none ctermfg=black ctermbg=white
 hi Pmenu term=none cterm=none ctermfg=black ctermbg=lightgray
