@@ -24,8 +24,8 @@ hi Todo term=none cterm=none ctermfg=green ctermbg=none
 
 " Warning and error
 hi WarningMsg term=none cterm=none ctermfg=none ctermbg=darkyellow
-hi Error term=none cterm=none ctermfg=fg ctermbg=darkred
-hi ErrorMsg term=none cterm=none ctermfg=fg ctermbg=darkred
+hi Error term=none cterm=none ctermfg=white ctermbg=darkred
+hi ErrorMsg term=none cterm=none ctermfg=white ctermbg=darkred
 
 " Faded
 hi Comment term=none cterm=none ctermfg=gray ctermbg=none
@@ -49,32 +49,32 @@ hi SpellLocal term=none cterm=none ctermfg=red ctermbg=none
 hi SpellRare term=none cterm=none ctermfg=red ctermbg=none
 
 " Search
-hi IncSearch term=none cterm=none ctermfg=bg ctermbg=fg
+hi IncSearch term=none cterm=none ctermfg=black ctermbg=white
 hi Search term=none cterm=none ctermfg=green ctermbg=none
 
 hi ColorColumn term=none cterm=none ctermfg=none ctermbg=lightgray
 hi Concealed term=none cterm=none ctermfg=none ctermbg=none
-hi Cursor term=none cterm=none ctermfg=fg ctermbg=none
-hi CursorIM term=none cterm=none ctermfg=fg ctermbg=none
-hi CursorColumn term=none cterm=none ctermfg=fg ctermbg=gray
+hi Cursor term=none cterm=none ctermfg=white ctermbg=none
+hi CursorIM term=none cterm=none ctermfg=white ctermbg=none
+hi CursorColumn term=none cterm=none ctermfg=white ctermbg=gray
 hi CursorLine term=none cterm=none ctermfg=none ctermbg=none
 hi Directory term=bold cterm=bold ctermfg=green ctermbg=none
 hi LineNr term=none cterm=none ctermfg=gray ctermbg=none
 hi CursorLineNr term=none cterm=none ctermfg=black ctermbg=green
 hi MatchParen term=none cterm=none ctermfg=darkcyan ctermbg=none
-hi ModeMsg term=none cterm=none ctermfg=fg ctermbg=bg
-hi MoreMsg term=none cterm=none ctermfg=fg ctermbg=bg
-hi Pmenu term=none cterm=none ctermfg=fg ctermbg=black
+hi ModeMsg term=none cterm=none ctermfg=white ctermbg=black
+hi MoreMsg term=none cterm=none ctermfg=white ctermbg=black
+hi Pmenu term=none cterm=none ctermfg=white ctermbg=black
 hi PmenuSel term=reverse cterm=reverse ctermfg=none ctermbg=none
 hi PmenuSbar term=none cterm=none ctermfg=none ctermbg=black
-hi PmenuThumb term=none cterm=none ctermfg=none ctermbg=fg
-hi Question term=none cterm=none ctermfg=fg ctermbg=none
-hi StatusLine term=none cterm=none ctermfg=bg ctermbg=fg
-hi StatusLineNC term=none cterm=none ctermfg=bg ctermbg=gray
-hi StatusLineTerm term=none cterm=none ctermfg=bg ctermbg=fg
-hi StatusLineTermNC term=none cterm=none ctermfg=bg ctermbg=gray
-hi TabLine term=none cterm=none ctermfg=bg ctermbg=fg
-hi TabLineFill term=none cterm=none ctermfg=bg ctermbg=fg
-hi TabLineSel term=none cterm=none ctermfg=fg ctermbg=bg
+hi PmenuThumb term=none cterm=none ctermfg=none ctermbg=white
+hi Question term=none cterm=none ctermfg=white ctermbg=none
+hi StatusLine term=none cterm=none ctermfg=black ctermbg=white
+hi StatusLineNC term=none cterm=none ctermfg=black ctermbg=gray
+hi StatusLineTerm term=none cterm=none ctermfg=black ctermbg=white
+hi StatusLineTermNC term=none cterm=none ctermfg=black ctermbg=gray
+hi TabLine term=none cterm=none ctermfg=black ctermbg=white
+hi TabLineFill term=none cterm=none ctermfg=black ctermbg=white
+hi TabLineSel term=none cterm=none ctermfg=white ctermbg=black
 hi Visual term=reverse cterm=reverse ctermfg=none ctermbg=none
-hi WildMenu term=none cterm=none ctermfg=fg ctermbg=bg
+hi WildMenu term=none cterm=none ctermfg=white ctermbg=black
