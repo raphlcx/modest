@@ -43,10 +43,10 @@ hi DiffDelete term=none cterm=none ctermfg=darkred ctermbg=none
 hi DiffText term=none cterm=none ctermfg=white ctermbg=darkblue
 
 " Spell
-hi SpellBad term=underline cterm=underline ctermfg=darkred ctermbg=none
-hi SpellCap term=underline cterm=underline ctermfg=darkred ctermbg=none
-hi SpellLocal term=underline cterm=underline ctermfg=darkred ctermbg=none
-hi SpellRare term=underline cterm=underline ctermfg=darkred ctermbg=none
+hi SpellBad term=none cterm=none ctermfg=darkred ctermbg=none
+hi SpellCap term=none cterm=none ctermfg=darkred ctermbg=none
+hi SpellLocal term=none cterm=none ctermfg=darkred ctermbg=none
+hi SpellRare term=none cterm=none ctermfg=darkred ctermbg=none
 
 " Search
 hi IncSearch term=none cterm=none ctermfg=bg ctermbg=fg
