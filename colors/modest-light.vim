@@ -69,6 +69,7 @@ hi PmenuSel term=none cterm=none ctermfg=black ctermbg=gray
 hi PmenuSbar term=none cterm=none ctermfg=none ctermbg=lightgray
 hi PmenuThumb term=none cterm=none ctermfg=none ctermbg=gray
 hi Question term=none cterm=none ctermfg=black ctermbg=none
+hi QuickFixLine term=none cterm=none ctermfg=blue ctermbg=none
 hi StatusLine term=none cterm=none ctermfg=white ctermbg=black
 hi StatusLineNC term=none cterm=none ctermfg=white ctermbg=gray
 hi StatusLineTerm term=none cterm=none ctermfg=white ctermbg=black
