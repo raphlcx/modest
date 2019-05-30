@@ -20,7 +20,7 @@ hi Ignore term=none cterm=none ctermfg=none ctermbg=none
 hi Title term=none cterm=none ctermfg=none ctermbg=none
 
 " To-do
-hi Todo term=none cterm=none ctermfg=cyan ctermbg=none
+hi Todo term=none cterm=none ctermfg=magenta ctermbg=none
 
 " Warning and error
 hi WarningMsg term=none cterm=none ctermfg=none ctermbg=darkyellow
