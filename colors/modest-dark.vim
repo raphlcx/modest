@@ -58,7 +58,7 @@ hi Cursor term=none cterm=none ctermfg=white ctermbg=none
 hi CursorIM term=none cterm=none ctermfg=white ctermbg=none
 hi CursorColumn term=none cterm=none ctermfg=white ctermbg=gray
 hi CursorLine term=none cterm=none ctermfg=none ctermbg=none
-hi Directory term=bold cterm=bold ctermfg=green ctermbg=none
+hi Directory term=bold cterm=bold ctermfg=none ctermbg=none
 hi LineNr term=none cterm=none ctermfg=gray ctermbg=none
 hi CursorLineNr term=none cterm=none ctermfg=black ctermbg=green
 hi MatchParen term=none cterm=none ctermfg=black ctermbg=cyan

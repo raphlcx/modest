@@ -19,3 +19,13 @@ Two color schemes are available:
 **Modest Dark**
 
 ![modest-dark-ss](https://user-images.githubusercontent.com/8281591/58536921-5ea7ce80-8224-11e9-9e6c-871d79baf113.png)
+
+## Development note
+
+Test highlight on:
+
+  1. Incremental search
+  1. Search
+  1. Matching parentheses
+  1. Colored text
+  1. Cursor on first column of text
