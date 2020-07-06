@@ -23,7 +23,7 @@ hi Title term=none cterm=none ctermfg=none ctermbg=none
 hi Todo term=none cterm=none ctermfg=magenta ctermbg=none
 
 " Warning and error
-hi WarningMsg term=none cterm=none ctermfg=none ctermbg=darkyellow
+hi WarningMsg term=none cterm=none ctermfg=black ctermbg=darkyellow
 hi Error term=none cterm=none ctermfg=white ctermbg=darkred
 hi ErrorMsg term=none cterm=none ctermfg=white ctermbg=darkred
 
