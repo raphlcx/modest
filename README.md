@@ -14,11 +14,11 @@ Two color schemes are available:
 
 **Modest Light**
 
-![modest-light-ss](https://user-images.githubusercontent.com/8281591/58536968-77b07f80-8224-11e9-835d-80005c39f9ed.png)
+![modest-light-ss](https://user-images.githubusercontent.com/8281591/100112624-680e0780-2eaa-11eb-8090-5cdb72a89e1d.png)
 
 **Modest Dark**
 
-![modest-dark-ss](https://user-images.githubusercontent.com/8281591/58536921-5ea7ce80-8224-11e9-9e6c-871d79baf113.png)
+![modest-dark-ss](https://user-images.githubusercontent.com/8281591/100112686-7c520480-2eaa-11eb-9173-cd95b1d8cbc9.png)
 
 ## Development note
 
