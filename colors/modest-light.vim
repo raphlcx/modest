@@ -18,9 +18,7 @@ hi Special term=none cterm=none ctermfg=none ctermbg=none
 hi Underlined term=none cterm=none ctermfg=none ctermbg=none
 hi Ignore term=none cterm=none ctermfg=none ctermbg=none
 hi Title term=none cterm=none ctermfg=none ctermbg=none
-
-" To-do
-hi Todo term=none cterm=none ctermfg=magenta ctermbg=none
+hi Todo term=none cterm=none ctermfg=none ctermbg=none
 
 " Warning and error
 hi WarningMsg term=none cterm=none ctermfg=black ctermbg=darkyellow
