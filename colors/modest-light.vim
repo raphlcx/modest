@@ -18,7 +18,6 @@ hi Special term=none cterm=none ctermfg=none ctermbg=none
 hi Underlined term=none cterm=none ctermfg=none ctermbg=none
 hi Ignore term=none cterm=none ctermfg=none ctermbg=none
 hi Title term=none cterm=none ctermfg=none ctermbg=none
-hi Todo term=none cterm=none ctermfg=none ctermbg=none
 
 " Warning and error
 hi WarningMsg term=none cterm=none ctermfg=black ctermbg=darkyellow
@@ -33,6 +32,7 @@ hi Folded term=none cterm=none ctermfg=gray ctermbg=none
 hi FoldColumn term=none cterm=none ctermfg=gray ctermbg=none
 hi SignColumn term=none cterm=none ctermfg=gray ctermbg=none
 hi SpecialKey term=none cterm=none ctermfg=gray ctermbg=none
+hi Todo term=none cterm=none ctermfg=gray ctermbg=none
 
 " Diff
 hi DiffAdd term=none cterm=none ctermfg=darkgreen ctermbg=none
